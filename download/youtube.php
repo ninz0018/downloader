@@ -10,7 +10,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
     <link rel="stylesheet" href="style.css">
-    <link rel="icon" type="icon/x-icon" href="13.png">
+    <link rel="icon" type="icon/x-icon" href="../logo/13.png">
     <title>Document</title>
 </head>
 <body>
@@ -32,8 +32,8 @@
                 <input class="col-12 col-sm-6 mb-2 rounded" required type="text" name="link" id="link" placeholder="Paste link here!!!">
                 <button class="hov btn btn-warning fa ms-3 mb-2 col-3 col-sm-1" id="paste" >PASTE</button>
             </div><br><br>
-            <button class="hov btn btn-warning col-4 col-sm-1 me-3 fa"><img src="music.svg" alt="mp3"><br>CONVERT</button>
-            <button class="hov btn btn-warning col-4 col-sm-1 ms-3 fa"><img src="video.svg" alt="video"><br>CONVERT</button>
+            <button class="hov btn btn-warning col-4 col-sm-1 me-3 fa"><img src="../logo/music.svg" alt="mp3"><br>CONVERT</button>
+            <button class="hov btn btn-warning col-4 col-sm-1 ms-3 fa"><img src="../logo/video.svg" alt="video"><br>CONVERT</button>
         </div> 
     </div>
     

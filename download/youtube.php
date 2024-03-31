@@ -16,7 +16,14 @@
 <body>
     <script src="script.js"></script>
     <div class="p-4 d-flex align-items-center justify-content-center row">
-        <label for="back"><a href="../index.php" class="text-white" ><i><-BACK</i></a></label>
+        <div class="row" >
+            <div class="col-6" >
+                <label for="back"><a href="../index.php" class="text-white" ><i><-BACK</i></a></label>
+            </div>
+            <div class="d-flex align-items-end justify-content-end col-6">           
+                    <label for=""><a class="d-flex align-items-center justify-content-center" href="http://www.youtube.com" target="_blank" ><img src="../logo/utube.svg" alt="" style="height: 50px;" ></a></label>
+            </div>
+        </div>
         <div class="text-white fa d-flex align-items-center justify-content-center mt-5" >
             <h1>YOUTUBE DOWNLOADER</h1>
         </div>

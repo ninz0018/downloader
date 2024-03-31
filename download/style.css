@@ -1,0 +1,11 @@
+body {
+    background: url(back.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.hov:hover {
+    background-color: aqua;
+    transform: scale(1.2);
+}
